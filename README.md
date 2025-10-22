@@ -2,6 +2,8 @@
 
 Website portofolio ini dibuat sebagai representasi identitas diri secara digital yang memuat informasi mengenai profil, hobi, skills, serta beberapa hal favorit saya. Website ini saya rancang dengan desain modern bertema merah-hitam yang tetap mendukung mode gelap dan mode terang (dark/light mode). 
 
+Link Video Youtube : https://youtu.be/U_KERWklz-U
+
 Tampilan Halaman Home / Profil
 ![alt text](https://github.com/019RahmanAbrorZati/Portofolio-Website-Rahman-Abror-Zati/blob/main/SS%20Home%20Project.png)
 Pada bagian awal halaman, terdapat foto profil dan deskripsi singkat tentang diri saya. Struktur halaman ini terdiri dari Foto Profil dan Deskripsi Diri ditempatkan secara berdampingan (left-right layout). Di bawahnya terdapat 3 card navigasi utama yaitu About Me, Favorites, dan Contact.
